@@ -73,10 +73,9 @@ Here are some ideas to get you started:
             <div class="tech-stack-section">
                 <h1 style="text-align: center;">我的技术栈</h1>
                 <div class="tech-icons-container">
-                    ## 第一排图标向右移动##
-
+                     
                     <div class="tech-icons tech-icons-left">
-                        <!-- 第一轮图标 -->
+                        
                         <div class="tech-icon">
                             <img src="./imgs/icon/java-original.svg" alt="Java" />
                         </div>
@@ -125,8 +124,6 @@ Here are some ideas to get you started:
                         <div class="tech-icon">
                             <img src="./imgs/icon/uniapp.png" alt="Uniapp" />
                         </div>
-
-                        <!-- 第二轮图标（重复第一轮以实现无缝循环） -->
                         <div class="tech-icon">
                             <img src="./imgs/icon/java-original.svg" alt="Java" />
                         </div>
