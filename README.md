@@ -200,7 +200,7 @@ Here are some ideas to get you started:
                         <div class="tech-icon">
                             <img src="./imgs/icon/vuejs-original.svg" alt="Vue" />
                         </div>
-  <html/>         
+  </html>         
 
 ## 完全不完全统计......
 语言使用时间：
