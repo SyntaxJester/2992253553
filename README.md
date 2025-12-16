@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 
             <div class="tech-stack-section">
-                <h1 style="text-align: center;">我的技术栈</h1>
+                <h3 style="text-align: center;">我的技术栈</h3>
                 <div class="tech-icons-container">
                     <!-- 第一排图标 - 向右移动 -->
 
