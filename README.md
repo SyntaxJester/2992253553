@@ -74,7 +74,8 @@ Here are some ideas to get you started:
 
 ![Moe-Counter](https://count.getloli.com/get/@Moe-counter.github)
 
-<h2 align="center">个人Github成就</h2>
+
+<h2 align="left">个人Github成就</h2>
 
 ## [查看Github Skyline](https://skyline.zgqinc.gq/)
 
@@ -84,7 +85,7 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZGQ-inc&theme=synthwave&date_format=%5BY.%5Dn.j&locale=zh_Hans)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGQ-inc&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=50,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0) ![Github Stats](https://github-readme-stats.vercel.app/api?username=ZGQ-inc&title_color=ffffff&text_color=ffffff&layout=compact&width=100%&bg_color=30,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZGQ-inc&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=50,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0) ![Github Stats](https://github-readme-stats.vercel.app/api?username=Privat5418&title_color=ffffff&text_color=ffffff&layout=compact&width=100%&bg_color=30,650abf,6a13f8,fc35d0,fe696f,ff9a8b&locale=cn&hide_border=0)
 
 ## 完全不完全统计......
 语言使用时间：
