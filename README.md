@@ -101,6 +101,13 @@ Pug               38 mins         █▒░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<!-- 3D个人贡献资料图 -->
+<picture>
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
+  <img src="https://github.com/2992253553/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+</picture>
+
 ## 一些仓库的star情况(emmmm....)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ayeez757/ayeez757,ayeez757/learnBasicCodeOfJava,ayeez757/accounting_system,ayeez757/ayeez757.github.io&type=date&legend=top-left)](https://www.star-history.com/#ayeez757/ayeez757&ayeez757/learnBasicCodeOfJava&ayeez757/accounting_system&ayeez757/ayeez757.github.io&type=date&legend=top-left)
@@ -108,3 +115,5 @@ Pug               38 mins         █▒░░░░░░░░░░░░░�
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayeez757&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- 贪吃蛇动图 -->
+<div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg?new=20251217" />
