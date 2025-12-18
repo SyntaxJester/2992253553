@@ -74,8 +74,9 @@ Here are some ideas to get you started:
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
+本版块访问本页访客的统计自2022年6月12日起开始
 
-![](https://count.getloli.com/get/@BEPb.github.readme)
+![Moe-Counter](https://count.getloli.com/get/@Moe-counter.github)
 </br>
 
 [MIT](LICENSE)
