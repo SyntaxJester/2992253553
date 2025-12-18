@@ -72,8 +72,13 @@ Here are some ideas to get you started:
 [![csdn](https://img.shields.io/badge/csdn-Privat5418-red?logo=csdn)](https://www.zhihu.com/people/weixin_47554682)
 [![xiaohongshu](https://img.shields.io/badge/小红书-妳是我の半途癈-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/63c16665000000002702b0d1?xsec_token=YBc2ap2WAHtg6qaI8lv7Gx_wOIqPaXHFOR0u9bImeE4vY%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODlFMTk7Oj42NzUyOTgwNjg6OTlGNUo6&apptime=1759241547&share_id=5f0332ee0000000001005114&share_channel=copy_link)
 
-![Moe-Counter](https://count.getloli.com/get/@Moe-counter.github)
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
 
+![](https://count.getloli.com/get/@BEPb.github.readme)
+</br>
+
+[MIT](LICENSE)
 
 <h2 align="left">个人Github成就</h2>
 
