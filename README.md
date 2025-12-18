@@ -121,12 +121,7 @@ Pug               38 mins         █▒░░░░░░░░░░░░░�
   <img src="https://github.com/2992253553/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
-## <div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2992253553" alt="BEPb" /></a>
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayeez757&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
