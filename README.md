@@ -123,7 +123,7 @@ Pug               38 mins         █▒░░░░░░░░░░░░░�
 
 ## 一些仓库的star情况(emmmm....)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2992253553" alt="2992253553" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=2992253553&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayeez757&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
