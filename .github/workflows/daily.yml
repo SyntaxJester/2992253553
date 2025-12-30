@@ -16,8 +16,8 @@ jobs:
       - name: Commit and push if changed
         run: |-
           git diff
-          git config --global user.email "18231133236@163.com"
-          git config --global user.name "liugezhou"
+          git config --global user.email "2992253553@qq.com"
+          git config --global user.name "2992253553"
           git pull
           git add -A
           git commit -m "Auto Update Daily Quotations" || exit 0
