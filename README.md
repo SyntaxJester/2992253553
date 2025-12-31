@@ -1,4 +1,11 @@
-# Hi  👋  -> [这是我的个人主页超链接，可以来这里认识我！](https://xireiki.de5.net/) <-
+<!--Start-->
+ <h4> <img src="https://github.com/2992253553/2992253553/blob/main/images/cat-roll.gif" width="28" /> <a href="https://github.com/2992253553/2992253553/blob/main/quotations.md"> 每日一言</a></h4>
+
+<kbd>2025-12-31</kbd>
+
+- 以前听前辈说，中年人的社交圈子小的可怜。 我还不太理解。一个人活得越久认识的人应该越多啊。 现在年纪到了，果然如此。
+
+<!--End--> -> [这是我的个人主页超链接，可以来这里认识我！](https://xireiki.de5.net/) <-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=100&vCenter=true&width=435&height=60&lines=%E6%88%91%E5%8F%AB+Privat5418)](https://git.io/typing-svg)
 
 <h4> <img src="https://github.com/2992253553/2992253553/blob/main/images/cat-roll.gif" width="28" /> <a href="https://github.com/2992253553/2992253553/blob/main/quotations.md"> 每日一言</a></h4>
