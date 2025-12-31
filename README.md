@@ -11,6 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=100&vCenter=true&width=435&height=60&lines=%E6%88%91%E5%8F%AB+Privat5418)](https://git.io/typing-svg)
 
 # 很高兴认识你
+
 <h1>Privat5418的GitHub页面</h1>
 <!--  skill badge 技能徽章 -->
 
