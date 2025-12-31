@@ -6,6 +6,10 @@
 - 有时候，我坐在电脑前，想写一些东西。面对着空白的文本编辑器，坐了一个小时，什么也写不出来，非常有挫折感。 后来，我想通了，提醒自己写不出来没关系，这是为好作品的发生创造时间和空间。
 
 <!--End-->
+
+# Hi  👋  ->  [这是我的个人主页超链接，可以来这里认识我！](https://xireiki.de5.net/) <-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=100&vCenter=true&width=435&height=60&lines=%E6%88%91%E5%8F%AB+Privat5418)](https://git.io/typing-svg)
+
 # 很高兴认识你
 <h1>Privat5418的GitHub页面</h1>
 <!--  skill badge 技能徽章 -->
