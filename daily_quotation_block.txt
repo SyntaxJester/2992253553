@@ -1,4 +1,4 @@
 
 <h4> <img src="https://github.com/2992253553/2992253553/blob/main/images/cat-roll.gif" width="28" /> <a href="https://github.com/2992253553/2992253553/blob/main/quotations.md"> 每日一言</a></h4>
-<kbd>2026-01-18</kbd>
-- One of the best lessons I've learned on the Internet is never copy and paste code you didn't write. If you have to copy, just type it word for word and force yourself to think about what the code actually means.
+<kbd>2026-01-19</kbd>
+- The things one is most proud of are often the hardest things to do. You must not doubt it.
